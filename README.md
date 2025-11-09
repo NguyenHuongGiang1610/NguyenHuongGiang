@@ -16,6 +16,3 @@ My profile hurray!! Will try to update consistently I promise.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhuonggiang1610&show_icons=true&locale=en&layout=compact" alt="nguyenhuonggiang1610" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuonggiang1610&" alt="nguyenhuonggiang1610" /></p>
