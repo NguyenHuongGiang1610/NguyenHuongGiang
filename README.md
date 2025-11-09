@@ -7,7 +7,7 @@ My profile hurray!! Will try to update consistently I promise.
 
 - 📫 How to reach me: 9thich@gmail.com
 
-- ⚡ Fun fact: Sometimes I think I look friendly enough, but I don't :'D
+- ⚡ A quote I like: If you can dream it, you can do it. - Walt Disney
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
